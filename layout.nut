@@ -88,7 +88,7 @@ surface_snap.rotation = 0;
 
 
 // Load the cabinet layer using the DisplayName for matching 
-local b_art = fe.add_image("cabinets/Attract Mode Setup.png", 0, 0, flw, flh );
+local b_art = fe.add_image("cabinets/Default.png", 0, 0, flw, flh );
 local b_art = fe.add_image("cabinets/[DisplayName]", 0, 0, flw, flh );
 b_art.alpha=255;
 
